@@ -2,9 +2,9 @@
 
 ### Multiple Endpoints Project
 
-*  No UI required
-*  No database implementation required (a simple service or similar that mocks out data would suffice for this exercise)
-*  Any kind of NoSQL implementation a bonus
+*No UI required
+*No database implementation required (a simple service or similar that mocks out data would suffice for this exercise)
+*Any kind of NoSQL implementation a bonus
 *  The only technology requirement is the use of Ruby without leveraging Rails. Any subset of Rails can certainly be leveraged thou if beneficial.
 *  Otherwise the technology stack is completely open-ended with the use of any gems necessary
 
