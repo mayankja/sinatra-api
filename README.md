@@ -8,7 +8,7 @@
 * The only technology requirement is the use of Ruby without leveraging Rails. Any subset of Rails can certainly be leveraged thou if beneficial.
 * Otherwise the technology stack is completely open-ended with the use of any gems necessary
 
-####  User fields supported via the API: (feel free to add any further relevant fields to the user stored in the database)
+#### User fields supported via the API: (feel free to add any further relevant fields to the user stored in the database)
 * ID (required)
 * First Name (required)
 * Last Name (required)
